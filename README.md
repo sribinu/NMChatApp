@@ -1,7 +1,9 @@
 # NMChatApp 
 Live link of the Chat App - [link](https://nmchatapp.onrender.com)
 
-Chat App created by,
+Chat App created by, 
+
+
 ![image](https://github.com/psribinu/NMChatApp/assets/132071081/549a09b0-3f61-408d-bfff-9839870d5d1d) 
 
 
